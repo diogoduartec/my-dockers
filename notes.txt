@@ -1,0 +1,1 @@
+Elasticsearch authentication: There are a build-in user (elastic), have to create new users in Kibana.
