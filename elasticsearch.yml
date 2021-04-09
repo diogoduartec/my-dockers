@@ -1,5 +1,5 @@
 version: '3.7'
-
+# comment
 services:
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.4.0
