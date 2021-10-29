@@ -1,7 +1,0 @@
-$ docker-compose -f <filename.yml> up -d
-$ docker logs <container> -f
-$ docker ps
-$ docker stop <container1> <container2> <container3>
-$ docker system prune
-$ docker-compose -f <filename.yml> down
-$ docker-compose -f <filename.yml> down -v
